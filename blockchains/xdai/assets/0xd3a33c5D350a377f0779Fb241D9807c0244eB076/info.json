@@ -1,0 +1,11 @@
+{
+    "name": "IBX Token",
+    "website": "https://ibexfi.io",
+    "description": "IBX Token sur Gnosis Chain",
+    "explorer": "https://gnosisscan.io/token/0xd3a33c5D350a377f0779Fb241D9807c0244eB076",
+    "type": "ERC20",
+    "symbol": "IBX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd3a33c5D350a377f0779Fb241D9807c0244eB076"
+}
